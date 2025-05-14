@@ -1,0 +1,13 @@
+# This file is used to install the required packages for the project.
+# It is recommended to use a virtual environment to avoid conflicts with other projects.
+langchain
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+python_dotenv
+langchain-community
+langchain-openai
+# langchain-gemini
+langchain-groq
